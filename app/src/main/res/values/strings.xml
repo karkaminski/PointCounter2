@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PointCounter</string>
+    <string name="push_me">Push me</string>
+    <string name="time_left">Time left: %1$d</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="game_over_message">GAME OVER. Your score was %1$d</string>
+</resources>
